@@ -1,0 +1,15 @@
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\bin\Debug\net6.0\HelloAliens.exe
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\bin\Debug\net6.0\HelloAliens.deps.json
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\bin\Debug\net6.0\HelloAliens.runtimeconfig.json
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\bin\Debug\net6.0\HelloAliens.dll
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\bin\Debug\net6.0\HelloAliens.pdb
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\HelloAliens.csproj.AssemblyReference.cache
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\HelloAliens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\HelloAliens.AssemblyInfoInputs.cache
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\HelloAliens.AssemblyInfo.cs
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\HelloAliens.csproj.CoreCompileInputs.cache
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\HelloAliens.dll
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\refint\HelloAliens.dll
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\HelloAliens.pdb
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\HelloAliens.genruntimeconfig.cache
+C:\Users\Sadhun\Documents\CSharp\HelloAliens\HelloAliens\obj\Debug\net6.0\ref\HelloAliens.dll
